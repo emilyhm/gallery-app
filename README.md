@@ -3,6 +3,8 @@
 
 In this activity you will set up serviuce worker functionality to allow your application to work offline.
 
+View the live app here! -->  https://simple-gallery.herokuapp.com/ 
+
 ## Here are Your Instructions
 
 * We will be using a `kind of a live coding exercise` for this activity
